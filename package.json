@@ -1,0 +1,23 @@
+{
+  "name": "style-dictionary-google-sheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbanksdesign/style-dictionary-google-sheets.git"
+  },
+  "author": "Danny Banks <dbanks.design@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dbanksdesign/style-dictionary-google-sheets/issues"
+  },
+  "homepage": "https://github.com/dbanksdesign/style-dictionary-google-sheets#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.0",
+    "style-dictionary": "^2.8.0"
+  }
+}
