@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/dbanksdesign/style-dictionary-google-sheets#readme",
   "devDependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "style-dictionary": "^2.8.0"
   }
 }
